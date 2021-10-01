@@ -15,6 +15,13 @@
 composer require death_satan/dcat-ice-editor -vvv
 ```
 ---
+## 截图示例
+
+---
+
+![img.png](./example/img.png)
+
+---
 
 # 使用
 ## Form
